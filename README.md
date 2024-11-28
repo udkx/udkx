@@ -50,6 +50,60 @@
 ### ⌨️ WakaTime статистика:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+🌆 Daytime                34 commits          ███████████████░░░░░░░░░░   59.65 % 
+🌃 Evening                11 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  11 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Wednesday                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Thursday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Friday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Saturday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ██████████████░░░░░░░░░░░   57.14 % 
+Go                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 28/11/2024 07:48:57 UTC
 <!--END_SECTION:waka-->
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udkx&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
