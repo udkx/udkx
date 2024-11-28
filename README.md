@@ -45,14 +45,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=udkx&show_icons=true&theme=github_dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=udkx&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ⌨️ WakaTime статистика:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -106,8 +101,6 @@ C#                       1 repo              ████░░░░░░░�
  Last Updated on 28/11/2024 08:17:05 UTC
 <!--END_SECTION:waka-->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udkx&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🏆 GitHub Трофеи:
 [![trophy](https://github-profile-trophy.vercel.app/?username=udkx&theme=onestar&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -115,16 +108,13 @@ C#                       1 repo              ████░░░░░░░�
 
 ### 📫 Связаться со мной:
 <div id="badges">
-  <a href="ваша-ссылка-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="ваша-ссылка-telegram">
+  <a href="https://t.me/udkx">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:ваш-email">
+  <a href="mailto:udkx@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="ваша-ссылка-github">
+  <a href="https://github.com/udkx">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
@@ -142,12 +132,12 @@ C#                       1 repo              ████░░░░░░░�
 - Конкурентное программирование и горутины
 - Микросервисная архитектура
 - Высоконагруженные системы
-- Паттерны пр��ектирования в Go
+- Паттерны проектирования в Go
 
 ### 📝 Последние посты:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/udkx/udkx/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/udkx/udkx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
