@@ -52,6 +52,43 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20thousand%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+🌆 Daytime                30 commits          ██████████████░░░░░░░░░░░   54.55 % 
+🌃 Evening                11 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Tuesday                  11 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Thursday                 14 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Friday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Sunday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +101,7 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 00:16:18 UTC
+ Last Updated on 13/12/2024 00:16:54 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 GitHub Трофеи:
