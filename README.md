@@ -48,6 +48,8 @@
 ### ⌨️ WakaTime статистика:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-933%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -98,7 +100,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 00:15:24 UTC
+ Last Updated on 03/05/2025 00:16:16 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 GitHub Трофеи:
