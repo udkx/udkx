@@ -48,46 +48,7 @@
 ### ⌨️ WakaTime статистика:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2045%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.78%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                60 commits          ████████████░░░░░░░░░░░░░   48.00 % 
-🌃 Evening                51 commits          ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Tuesday                  43 commits          █████████░░░░░░░░░░░░░░░░   34.40 % 
-Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Thursday                 50 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
-Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Go** 
 
@@ -102,7 +63,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 06:31:32 UTC
+ Last Updated on 15/05/2026 00:38:42 UTC
 <!--END_SECTION:waka-->
 
 ### 🏆 GitHub Трофеи:
