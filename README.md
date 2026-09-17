@@ -50,6 +50,10 @@ Backend-разработчик. Go и Python, PostgreSQL, Kubernetes, CI/CD.
 ### Статистика
 
 <div align="center">
+  <img src="metrics.svg" alt="Метрики GitHub: активность, языки, календарь коммитов"/>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=udkx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
