@@ -35,6 +35,10 @@ Backend-разработчик. Go и Python, PostgreSQL, Kubernetes, CI/CD.
 
 ### Проекты
 
+<div align="center">
+  <img src="assets/100verst-stats.svg" alt="100 вёрст в цифрах: 64 тыс. строк Go, 694 теста, пропускная способность ×7, p50 2,9 мс"/>
+</div>
+
 **100 вёрст** — B2B-платформа грузоперевозок, переписана с легаси PHP + MySQL на Go + PostgreSQL + React. Репозитории закрыты (коммерческий проект).
 
 - Бэкенд на Go: модульный монолит, ~64 тыс. строк (треть из них — тесты: 694 теста), 98 эндпоинтов по OpenAPI-контракту, 34 миграции. Только chi, pgx и goose, остальное — стандартная библиотека.
@@ -48,10 +52,6 @@ Backend-разработчик. Go и Python, PostgreSQL, Kubernetes, CI/CD.
 ---
 
 ### Статистика
-
-<div align="center">
-  <img src="metrics.svg" alt="Метрики GitHub: активность, языки, календарь коммитов"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=udkx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>

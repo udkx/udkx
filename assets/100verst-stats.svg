@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="104" viewBox="0 0 840 104" role="img" aria-label="100 вёрст в цифрах: 64 тысячи строк Go, 694 теста, пропускная способность выше в 7 раз, p50 2,9 мс">
+<style>
+  .tile{fill:#f6f8fa;stroke:#d0d7de}
+  .num{font:700 34px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#3b5998}
+  .lbl{font:400 13px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#57606a}
+  @media (prefers-color-scheme:dark){
+    .tile{fill:#161b22;stroke:#30363d}
+    .num{fill:#7A95C9}
+    .lbl{fill:#8b949e}
+  }
+</style>
+<rect class="tile" x="0.5" y=".5" width="197" height="103" rx="10"/>
+<text class="num" x="99.0" y="50" text-anchor="middle">64K</text>
+<text class="lbl" x="99.0" y="78" text-anchor="middle">строк Go в бэкенде</text>
+<rect class="tile" x="214.5" y=".5" width="197" height="103" rx="10"/>
+<text class="num" x="313.0" y="50" text-anchor="middle">694</text>
+<text class="lbl" x="313.0" y="78" text-anchor="middle">теста, треть кода</text>
+<rect class="tile" x="428.5" y=".5" width="197" height="103" rx="10"/>
+<text class="num" x="527.0" y="50" text-anchor="middle">×7</text>
+<text class="lbl" x="527.0" y="78" text-anchor="middle">пропускная способность</text>
+<rect class="tile" x="642.5" y=".5" width="197" height="103" rx="10"/>
+<text class="num" x="741.0" y="50" text-anchor="middle">2,9 мс</text>
+<text class="lbl" x="741.0" y="78" text-anchor="middle">p50 на 18 тыс. записей</text>
+</svg>
