@@ -36,7 +36,7 @@ Backend-разработчик. Go и Python, PostgreSQL, Kubernetes, CI/CD.
 ### Проекты
 
 <div align="center">
-  <img src="assets/100verst-stats.svg" alt="100 вёрст в цифрах: 64 тыс. строк Go, 694 теста, пропускная способность ×7, p50 2,9 мс"/>
+  <img src="assets/100verst-stats.svg" alt="100 вёрст в цифрах: 64 тыс. строк Go, 694 теста, пропускная способность ×7, p50 2,9 мс, 98 эндпоинтов, 34 миграции, 27 тыс. строк TypeScript, 208 тестов фронтенда"/>
 </div>
 
 **100 вёрст** — B2B-платформа грузоперевозок, переписана с легаси PHP + MySQL на Go + PostgreSQL + React. Репозитории закрыты (коммерческий проект).
@@ -69,10 +69,10 @@ Backend-разработчик. Go и Python, PostgreSQL, Kubernetes, CI/CD.
 
 ---
 
-### Статистика
+### Открытые проекты в цифрах
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=udkx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="assets/open-source-stats.svg" alt="Открытые проекты в цифрах: нейросеть выигрывает 71,6 % партий в сапёр, тик симуляции 9,9 мс против 21 мс, Go SDK без внешних зависимостей"/>
 </div>
 
 ---
