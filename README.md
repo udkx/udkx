@@ -5,149 +5,54 @@
     Привет, я Артём
     <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/>
   </h1>
-  
-  <img src="https://komarev.com/ghpvc/?username=udkx&style=flat-square&color=blue" alt=""/>
+
+  <img src="https://komarev.com/ghpvc/?username=udkx&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A95C9&center=true&vCenter=true&width=435&lines=Backend+Developer;Учу+Гошку;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A95C9&center=true&vCenter=true&width=435&lines=Backend+Developer;Go+%C2%B7+PostgreSQL+%C2%B7+Kubernetes;%D0%9A%D0%BE%D0%B4%2C+%D1%82%D0%B5%D1%81%D1%82%D1%8B%2C+%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D1%8B%2C+%D0%B4%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 Обо мне:
-- 🔭 Я работаю над пет проектом сбора данных на python fast api
-- 🌱 Сейчас изучаю алгоритмы и структуры данных
-- 💬 Открыт к коммуникации
-- 📫 Как со мной связаться: можно в тележку
-
----
-
-### 🛠 Языки и инструменты:
+Backend-разработчик. Go и Python, PostgreSQL, Kubernetes, CI/CD.
+Пишу сервисы полного цикла: код, тесты, контейнеры, деплой.
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
-### 📊 Моя статистика:
+### Проекты
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=udkx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+**100 вёрст** — B2B-платформа грузоперевозок, переписана с легаси PHP + MySQL на Go + PostgreSQL + React. Репозитории закрыты (коммерческий проект).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=udkx&show_icons=true&theme=github_dark&hide_border=true)
+- Бэкенд на Go: модульный монолит, ~64 тыс. строк (треть из них — тесты: 694 теста), 98 эндпоинтов по OpenAPI-контракту, 34 миграции. Только chi, pgx и goose, остальное — стандартная библиотека.
+- Деньги: неизменяемый леджер в копейках, холды, идемпотентность по ключу; гонки при зачислениях и возвратах покрыты тестами.
+- Персональные данные шифруются на уровне приложения (AES-256-GCM + blind index для поиска), пароли — Argon2id, 2FA для администраторов.
+- Собственный инструмент нагрузочного тестирования со сценариями с состоянием. Он нашёл Seq Scan в списке заявок; после индекса под порядок сортировки — 6 600 req/s вместо 950, p50 2,9 мс вместо 20 мс на 18 тыс. записей.
+- Фронтенд: React + TypeScript, ~27 тыс. строк, типы API генерируются из OpenAPI, 208 тестов (Vitest, Playwright).
 
-### ⌨️ WakaTime статистика:
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.72%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-🌆 Daytime                87 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-🌃 Evening                96 commits          ████████████░░░░░░░░░░░░░   47.29 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Tuesday                  44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Thursday                 51 commits          ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Saturday                 54 commits          ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wolfram Language         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-```
-
-
-
-
- Last Updated on 17/09/2026 07:34:10 UTC
-<!--END_SECTION:waka-->
-
-### 🏆 GitHub Трофеи:
-[![trophy](https://github-profile-trophy.vercel.app/?username=udkx&theme=onestar&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+**[sandustry-native](https://github.com/udkx/sandustry-native)** — нативное ядро симуляции на Rust, тик 9,9 мс против 21 мс в оригинале.
 
 ---
 
-### 📫 Связаться со мной:
-<div id="badges">
-  <a href="https://t.me/udkx">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:udkx@outlook.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/udkx">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
-
-### 📚 Сейчас изучаю:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
-</div>
-
-#### 🎯 Направления изучения Go:
-- Углубленные алгоритмы и структуры данных
-- Конкурентное программирование и горутины
-- Микросервисная архитектура
-- Высоконагруженные системы
-- Паттерны проектирования в Go
-
-### 📝 Последние посты:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Статистика
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/udkx/udkx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=udkx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+---
+
+**Контакты** — Telegram [@udkx](https://t.me/udkx) · udkx@outlook.com
